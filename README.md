@@ -1,6 +1,8 @@
 # PDF Reader React.JS
 A simple program to display a PDF file using react-pdf and react-pageflip in React.js
 
+![Preview gif](https://github.com/kiigeeks/pdf-reader/blob/main/result.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

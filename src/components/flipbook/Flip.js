@@ -32,7 +32,7 @@ const Flip = () => {
         <div className='w-screen flex flex-col items-center'>
             <h1 className='my-5 font-extrabold text-4xl'>PDF Flipbook</h1>
             <div className='mt-3 md:mt-5 flex flex-col justify-between gap-5'>
-                <Document file={'/assets/pdf/phone.pdf'} onLoadSuccess={onDocumentLoadSuccess} className="self-center border-t-8 border-amber-500">
+                <Document file={'/assets/pdf/edited_majalah.pdf'} onLoadSuccess={onDocumentLoadSuccess} className="self-center border-t-8 border-amber-500">
                     <HTMLFlipBook 
                         showCover={true}
                         maxShadowOpacity={2.0}
